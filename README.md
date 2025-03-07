@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Lucas</h1>
-<h3 align="center">A Software Developer from Brazil</h3>
+<h3 align="center">A Software Engineer from Brazil</h3>
 
 - 🔭 I’m currently working on **Mercado Libre**
 
